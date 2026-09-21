@@ -1,0 +1,22 @@
+ .lightblue{
+  background:DodgerBlue;
+opacity: 0.7
+  }
+body{
+background-image: url('images.jpg'); 
+background-size: cover; 
+background-position: center; 
+background-attachment: fixed;
+}
+#playerList{
+border-style:dashed;
+}
+  .blue{
+  color:#0076CE;
+  }
+  h1{
+  font-size:32px;
+  } 
+  .green{
+color:#90EE90;
+
