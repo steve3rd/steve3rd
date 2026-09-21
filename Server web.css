@@ -11,7 +11,7 @@ background-attachment: fixed;
 #playerList{
 border-style:dashed;
 }
-  .blue{
+  *{
   color:#0076CE;
   }
   h1{
